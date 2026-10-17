@@ -115,10 +115,15 @@ Sign in with Apify OAuth when asked, or send `Authorization: Bearer <APIFY_TOKEN
 
 $0.20 per 1,000 ads on every Apify plan (Free, Bronze, Silver, Gold and above), with Apify platform usage and residential proxy included, no start fee, pay only for results – see [lagenuina_agency/meta-ad-library-scraper](https://apify.com/lagenuina_agency/meta-ad-library-scraper).
 
-## More ad intelligence APIs
+## More tools from Quelli di Carne Genuina
 
-- [Google Ads Transparency API](https://github.com/assa83/google-ads-transparency-api) – every ad a brand runs on Google Search, YouTube, Shopping, Maps and Play.
-- [LinkedIn Ad Library API](https://github.com/assa83/linkedin-ad-library-api) – LinkedIn ads with impressions, countries and targeting.
+- **Ad intelligence:** [Google Ads Transparency](https://github.com/assa83/google-ads-transparency-api) · [TikTok Top Ads](https://github.com/assa83/tiktok-top-ads-api) · [LinkedIn Ad Library](https://github.com/assa83/linkedin-ad-library-api)
+- **Competitor & SEO research:** [Similarweb traffic](https://github.com/assa83/similarweb-traffic-api) · [Google Trends](https://github.com/assa83/google-trends-api-python) · [Google Play](https://github.com/assa83/google-play-scraper-api)
+- **Travel prices:** [Google Hotels](https://github.com/assa83/google-hotels-prices-api) · [Google Flights](https://github.com/assa83/google-flights-api)
+- **Retail prices:** [Woolworths & Coles](https://github.com/assa83/australian-supermarket-prices-api)
+- **Content & social data:** [YouTube Transcript](https://github.com/assa83/youtube-transcript-scraper-api) · [Medium](https://github.com/assa83/medium-scraper-api) · [Likee](https://github.com/assa83/likee-scraper-api)
+
+All actors: [apify.com/lagenuina_agency](https://apify.com/lagenuina_agency) · Tutorials: [assa83.github.io](https://assa83.github.io)
 
 ## Disclaimer
 
