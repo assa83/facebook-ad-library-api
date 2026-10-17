@@ -1,0 +1,14 @@
+{
+  "name": "facebook-ad-library-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Facebook Ad Library API example in Python, JavaScript and n8n: export a page's Facebook & Instagram ads from the Meta Ad Library to CSV. MCP-ready.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
